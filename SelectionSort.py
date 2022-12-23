@@ -16,3 +16,4 @@ def selectionsort(input_array: List[int]):
             temp = input_array[i_min]
             input_array[i_min] = input_array[i]
             input_array[i] = temp
+
